@@ -1,0 +1,20 @@
+2018-03-07 16:58:12.318712-0700 18[816:15131] [General] ERROR: Setting <GLFWContentView: 0x1006993e0> as the first responder for window <GLFWWindow: 0x100599cc0>, but it is in a different window ((null))! This would eventually crash when the view is freed. The first responder will be set to nil.
+(
+	0   AppKit                              0x00007fff493dd52e -[NSWindow _validateFirstResponder:] + 578
+	1   AppKit                              0x00007fff48b24a58 -[NSWindow _setFirstResponder:] + 31
+	2   AppKit                              0x00007fff48bc317d -[NSWindow _realMakeFirstResponder:] + 448
+	3   libglfw.3.dylib                     0x0000000100344975 _glfwPlatformCreateWindow + 657
+	4   libglfw.3.dylib                     0x0000000100340592 glfwCreateWindow + 443
+	5   18                                  0x000000010000bd31 main + 129
+	6   libdyld.dylib                       0x00007fff72ef1115 start + 1
+	7   ???                                 0x0000000000000001 0x0 + 1
+)
+ERROR::SHADER::FRAGMENT::COMPILATION_FAILED
+
+ERROR::SHADER::PROGRAM::LINKING_FAILED.
+ERROR: One or more attached shaders not successfully compiled
+
+Error loading infile.  Verify file name and try again.
+Error loading infile.  Verify file name and try again.
+Error loading infile.  Verify file name and try again.
+Program ended with exit code: 0
