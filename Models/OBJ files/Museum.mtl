@@ -1,0 +1,178 @@
+# Blender MTL File: 'Museum.blend'
+# Material Count: 17
+
+newmtl Heart_Material
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Dropbox\CSE\389_02\Blender & Obj files\blend files\Textures\heart.png
+map_Bump -bm 0.100000 D:\\Dropbox\\CSE\\389_02\\Blender & Obj files\\blend files\\ObjectFiles\\Heart_NM_TEXTURE.tga
+
+newmtl Material.001
+Ns 5.882353
+Ka 1.000000 1.000000 1.000000
+Kd 0.321568 0.321568 0.321568
+Ks 0.061111 0.061111 0.061111
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Dropbox\CSE\389_02\Blender & Obj files\blend files\Textures\human skin.png
+
+newmtl Material.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Dropbox\CSE\389_02\Blender & Obj files\blend files\Textures\Museum_1_UV_ textured.png
+
+newmtl Material.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Dropbox\CSE\389_02\Blender & Obj files\blend files\Textures\nightstand.png
+
+newmtl Material.006
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.007
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.008
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.009
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.012
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.013
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.014
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.015
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Dropbox\CSE\389_02
+
+newmtl Material_004.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.569813 0.450562 0.382238
+Ks 0.024706 0.024706 0.024706
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Dropbox\CSE\389_02\Blender & Obj files\blend files\Textures\human skin.png
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl None_nightstand.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd D:\Dropbox\CSE\389_02\Blender & Obj files\blend files\Textures\nightstand.png
+
+newmtl skeleton
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.915814 0.735341
+Ks 0.383929 0.383929 0.383929
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Dropbox\CSE\389_02\Blender & Obj files\blend files\Textures\skeleton.png
+
+newmtl teeth
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.281010 0.227089 0.105829
+Ks 0.383929 0.383929 0.383929
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Dropbox\CSE\389_02\Blender & Obj files\blend files\Textures\skeleton.png
